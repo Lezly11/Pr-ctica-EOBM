@@ -8,6 +8,11 @@ Ejercicio para aprender marckdown
 
 
 
+- George Washington
+* John Adams
++ Thomas Jefferson
+
+
 This is a `inline code block`
 
 ```javascript
@@ -26,3 +31,8 @@ Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
+
+
+
+
+
