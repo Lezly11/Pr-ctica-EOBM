@@ -13,7 +13,8 @@ Ejercicio para aprender marckdown
 + Thomas Jefferson
 
 This is [an example] [id] reference-style link.
-[id]: http://example.com/ "Optional Title Here"
+
+[id]: http://example.com/ "Hola"
 
 This is a `inline code block`
 
