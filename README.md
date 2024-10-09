@@ -18,6 +18,22 @@ This is [an example] [id] reference-style link.
 
 This is a `inline code block`
 
+
+# En línea con el texto
+
+![Alternative text](/path/to/img.jpg "Optional title")
+
+# Referencias
+
+![Alternative text][id]
+[id]: url/to/image "Optional title"
+
+
+
+
+
+
+
 ```javascript
 var a = {};
 ```
