@@ -12,6 +12,8 @@ Ejercicio para aprender marckdown
 * John Adams
 + Thomas Jefferson
 
+This is [an example][id] reference-style link.
+
 
 This is a `inline code block`
 
