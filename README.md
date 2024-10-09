@@ -10,3 +10,7 @@ Ejercicio para aprender marckdown
 
 This is a `inline code block`
 
+```javascript
+var a = {};
+```
+
